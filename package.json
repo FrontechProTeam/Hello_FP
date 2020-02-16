@@ -1,0 +1,14 @@
+{
+  "name": "animetion-hello-world",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:DuGlaser/animetion-hello-world.git",
+  "author": "DuGlaser <bjan1290569@gn.iwasaki.ac.jp>",
+  "license": "MIT",
+  "dependencies": {
+    "gulp": "^4.0.2",
+    "gulp-autoprefixer": "^7.0.1",
+    "gulp-postcss": "^8.0.0",
+    "gulp-sass": "^4.0.2"
+  }
+}
